@@ -45,13 +45,10 @@ A copy of Jupyter can be acquired for free from the Visual Studio Code Marketpla
 
 Once you've installed Visual Studio Code, Jupyter, and Python as an isolated environment, you'll be able to begin following along with any of my Jupyter Notebook tutorials.
 
-The first time you run one of the Jupyter Notebook tutorials, you'll be asked to:
+1. The first time you execute a Jupyter Notebook code block, you'll be presented with a small diaglog at the top of your Visual Studio Code window to "Select an environment". You'll want to select "Python Environments..."
 
-1. Select a Python Environment
-2. Select the Kernel you'd like to use.
+![select-python-environment-1](https://github.com/user-attachments/assets/421d9894-0fea-4637-a67c-efdb21209373)
 
-Pay attention to the path you're selecting—the Python version you installed in the last step, should appear in this step and contain a `~/.pyenv` prefix.
+2. Next, you'll be presented with a list of available Python environments, you want to use the environment you installed in the above "`pyenv`" step, so select one of the options under the "PyEnv Env" heading. Pay attention to the path you're selecting, the light gray text should contain a path with a `~/.pyenv` prefix.
 
-All of the `.pyenv` installed versions of Python will be grouped under the "PyEnv Env" heading (notice the blue text to the right in the purple box).
-
-![select-python-environment](https://github.com/user-attachments/assets/e5e41b1a-1124-4a29-aa45-dbbfb73da340)
+![select-python-environment-2](https://github.com/user-attachments/assets/919650cc-06b8-4fa3-843b-21c9f29df9b0)
