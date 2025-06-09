@@ -53,6 +53,13 @@ Once you've installed Visual Studio Code, Jupyter, and Python as an isolated env
 
 ![select-python-environment-2](https://github.com/user-attachments/assets/919650cc-06b8-4fa3-843b-21c9f29df9b0)
 
+## Other options
+A variety of other options exist for testing REST API calls and some even generate helpful code in a variety of languages. I prefer the Jupyter environment because it allows me to write and test code that I can transfer into an application, pipeline, or other project easily. The following options are great if your just interested in designing, documenting, and exploring a REST API.
+
+1. Swagger (open source)
+2. Postman or Insomnia (commerical API platforms)
+3. RapidAPI (standalone desktop application)
+
 ## Conclusion
 
 Now you should be ready to proceed with any of my REST API Playground tutorials, such as "[Harnessing the Power of Mainframe REST APIS for Modernization](https://github.com/joshuapowell/harnessing-the-power-of-mainframe-rest-apis-for-modernization)".
