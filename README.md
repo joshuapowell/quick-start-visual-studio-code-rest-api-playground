@@ -19,9 +19,8 @@ A copy of Jupyter can be acquired for free from the Visual Studio Code Marketpla
 ![select-jupyter-environment](https://github.com/user-attachments/assets/9bb6fbf1-17e5-40e1-9701-83cf9a045649)
 
 1. Visit the [Visual Studio Code Marketplace and search for Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
-2. Click the green install button
-![Screenshot 2025-06-09 at 12 52 42](https://github.com/user-attachments/assets/e3be0903-6999-4158-bbcb-afe3824cca31)
-3. "Open in Visual Studio Code [.app, .exe]" to launch the extension in your locally installed version of Visual Studio Code
+2. Click the green install button (browser market place) or the blue install button (in-app "Extensions" tab)
+3. Follow on-screen instructions to complete the installation
 
 ## Python
 
