@@ -2,11 +2,21 @@
 
 ## Visual Studio Code
 
+Microsoft Visual Studio Code is a precompiled desktop application that is available on a variety of operating systems and is a ready-to-use IDE. A copy can be acquired for free by following the steps outlined below.
+
 1. Visit [https://code.visualstudio.com/](https://code.visualstudio.com/download)
 2. Download the version of Visual Studio Code for your operating system
 3. Follow [any additional "setup" instructions](https://code.visualstudio.com/docs/setup/setup-overview) required for your version
 
+While Visual Studio Code is highly customizable, no special customization is required to follow along with any of my REST API playground tutorials.
+
 ## Jupyter
+
+Jupyter, Jupyter Labs, or Jupyter Notebooks is an interactive coding environment that lets you run isolated blocks of code. It is widely used in the data analytics and data science communitites. Since a lot of the work I perform is with REST APIs and intergrations, Jupyter is great for exploratory data analysis and is the perfect tool for running, rerunning, and fine tuning REST API calls and exploring the data you receive from the calls.
+
+A copy of Jupyter can be acquired for free from the Visual Studio Code Marketplace by either visiting the Marketplace in a browser or via the "Extensions"
+
+![select-jupyter-environment](https://github.com/user-attachments/assets/9bb6fbf1-17e5-40e1-9701-83cf9a045649)
 
 1. Visit the [Visual Studio Code Marketplace and search for Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 2. Click the green install button
