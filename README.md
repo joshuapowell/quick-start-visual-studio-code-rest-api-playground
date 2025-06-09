@@ -1,4 +1,4 @@
-# Setup a REST API Playground with Visual Studio Code
+# Building a REST API Playground Quick Start Environment with Visual Studio Code, Jupyter, and pyenv
 
 ## Visual Studio Code
 
