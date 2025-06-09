@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Powell, Joshua I. (2025, June 9). Building a REST API Playground Quick Start Environment with Visual Studio Code, Jupyter, and pyenv. United States."
+authors:
+- family-names: "Powell"
+  given-names: "Joshua"
+  orcid: "https://orcid.org/0000-0002-0894-2399"
+title: "Building a REST API Playground Quick Start Environment with Visual Studio Code, Jupyter, and pyenv"
+version: 1.0.0
+doi: "00.0000/00000000.0000.0000000"
+date-released: 2025-06-09
+url: "https://github.com/joshuapowell/quick-start-visual-studio-code-rest-api-playground"
