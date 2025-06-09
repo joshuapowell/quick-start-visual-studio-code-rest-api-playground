@@ -4,6 +4,10 @@
 
 Microsoft Visual Studio Code is a precompiled desktop application that is available on a variety of operating systems and is a ready-to-use IDE. A copy can be acquired for free by following the steps outlined below.
 
+![select-visualsstudio-environment](https://github.com/user-attachments/assets/d7790212-10ce-49e4-b18a-82e87e830134)
+
+### Setup Visual Studio Code
+
 1. Visit [https://code.visualstudio.com/](https://code.visualstudio.com/download)
 2. Download the version of Visual Studio Code for your operating system
 3. Follow [any additional "setup" instructions](https://code.visualstudio.com/docs/setup/setup-overview) required for your version
@@ -17,6 +21,8 @@ Jupyter, Jupyter Labs, or Jupyter Notebooks is an interactive coding environment
 A copy of Jupyter can be acquired for free from the Visual Studio Code Marketplace by either visiting the Marketplace in a browser or via the "Extensions"
 
 ![select-jupyter-environment](https://github.com/user-attachments/assets/9bb6fbf1-17e5-40e1-9701-83cf9a045649)
+
+### Setup Jupyter Notebooks for Visual Studio Code
 
 1. Visit the [Visual Studio Code Marketplace and search for Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 2. Click the green install button (browser market place) or the blue install button (in-app "Extensions" tab)
