@@ -52,3 +52,7 @@ Once you've installed Visual Studio Code, Jupyter, and Python as an isolated env
 2. Next, you'll be presented with a list of available Python environments, you want to use the environment you installed in the above "`pyenv`" step, so select one of the options under the "PyEnv Env" heading. Pay attention to the path you're selecting, the light gray text should contain a path with a `~/.pyenv` prefix.
 
 ![select-python-environment-2](https://github.com/user-attachments/assets/919650cc-06b8-4fa3-843b-21c9f29df9b0)
+
+## Conclusion
+
+Now you should be ready to proceed with any of my REST API Playground tutorials, such as "[Harnessing the Power of Mainframe REST APIS for Modernization](https://github.com/joshuapowell/harnessing-the-power-of-mainframe-rest-apis-for-modernization)"
