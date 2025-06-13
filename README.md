@@ -89,7 +89,10 @@ Now you should be ready to proceed with any of my REST API Playground tutorials,
 4. Project Jupyter. (Accessed June 13, 2025). Home. https://jupyter.org/
 5. Visual Studio Marketplace. (Accessed June 13, 2025). https://marketplace.visualstudio.com/vscode
 6. Jupyter - Visual Studio Marketplace. (Accessed June 13, 2025). https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
-7. 
+7. API documentation & design tools for teams | Swagger. (Accessed June 13, 2025). https://swagger.io/
+8. The collaborative API development platform. (Accessed June 13, 2025). Insomnia. https://insomnia.rest/
+9. Rapid. (Accessed June 13, 2025). section-1. https://rapidapi.com/
+10. Setting up Visual Studio Code. (2021, November 3). https://code.visualstudio.com/docs/setup/setup-overview
 
 ## 6. Disclaimer
 The content, including but not limited to code, text, images, audio, and/or video, hereafter referred to as "content", in this document are provided for informational and educational purposes only. TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR PROVIDES THIS DOCUMENT "AS IS" WITHOUT WARRANTY OF ANY KIND, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. In no event shall the author or their employer be liable for any claim, damages or other liability, direct or indirect, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the code and content or the use or other dealings in the code and content. Use this code and all other content at your own risk. 
