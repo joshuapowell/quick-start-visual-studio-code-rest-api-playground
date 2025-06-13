@@ -1,8 +1,10 @@
 # Building a REST API Playground Quick Start Environment with Visual Studio Code, Jupyter, and pyenv
 
-This document provides an overview of the software required to follow along with my REST API Plaground presentations. It provides readers with a "quick start" style overview for installing and configuring the most basic environment needed to follow along with the code in these presentations.
+## Abstract
 
-Keywords: Jupyter Notebooks, Python, Visual Studio Code, API, Development Environment
+This document guides developers through setting up an interactive development environment for exploring REST APIs using Microsoft Visual Studio Code, Jupyter Notebooks, and a `pyenv` managed Python environment. The guide provides high-level instructions for installing and configuring the software emphasizing the advantages of this approach for interactive exploratory data analysis and seamless code transfer to production applications. The setup demonstrated in this guide provides the developer with a foundation for completing advanced REST API tutorials and offers a more flexible alternative to traditional API testing tools like Postman or Swagger.
+
+**Keywords:** Jupyter Notebooks, Python, Visual Studio Code, API, Development Environment
 
 - [Setup](#setup)
     - [Visual Studio Code](#visual-studio-code)
