@@ -1,12 +1,22 @@
 # Building a REST API Playground Quick Start Environment with Visual Studio Code, Jupyter, and pyenv
 
-## Visual Studio Code
+- [Setup](#setup)
+    - [Visual Studio Code](#visual-studio-code)
+    - [Jupyter](#jupyter)
+    - [Python](#python)
+- [Getting Started](#getting-started)
+- [Other Options](#other-options)
+- [Conclusion](#conclusion)
+
+## Setup
+
+### Visual Studio Code
 
 Microsoft Visual Studio Code is a precompiled desktop application that is available on a variety of operating systems and is a ready-to-use IDE. A copy can be acquired for free by following the steps outlined below.
 
 ![select-visualsstudio-environment](https://github.com/user-attachments/assets/d7790212-10ce-49e4-b18a-82e87e830134)
 
-### Setup Visual Studio Code
+#### Setup Visual Studio Code
 
 1. Visit [https://code.visualstudio.com/](https://code.visualstudio.com/download)
 2. Download the version of Visual Studio Code for your operating system
@@ -14,7 +24,7 @@ Microsoft Visual Studio Code is a precompiled desktop application that is availa
 
 While Visual Studio Code is highly customizable, no special customization is required to follow along with any of my REST API playground tutorials.
 
-## Jupyter
+### Jupyter
 
 Jupyter, Jupyter Labs, or Jupyter Notebooks is an interactive coding environment that lets you run isolated blocks of code. It is widely used in the data analytics and data science communitites. Since a lot of the work I perform is with REST APIs and intergrations, Jupyter is great for exploratory data analysis and is the perfect tool for running, rerunning, and fine tuning REST API calls and exploring the data you receive from the calls.
 
@@ -22,22 +32,22 @@ A copy of Jupyter can be acquired for free from the Visual Studio Code Marketpla
 
 ![select-jupyter-environment](https://github.com/user-attachments/assets/9bb6fbf1-17e5-40e1-9701-83cf9a045649)
 
-### Setup Jupyter Notebooks for Visual Studio Code
+#### Setup Jupyter Notebooks for Visual Studio Code
 
 1. Visit the [Visual Studio Code Marketplace and search for Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 2. Click the green install button (browser market place) or the blue install button (in-app "Extensions" tab)
 3. Follow on-screen instructions to complete the installation
 
-## Python
+### Python
 
-### Setup `pyenv`
+#### Setup `pyenv`
 
 1. Visit [https://github.com/pyenv/pyenv](https://github.com/pyenv/pyenv)
 2. Find the ["Installation" section](https://github.com/pyenv/pyenv?tab=readme-ov-file#installation) in the README. Note: The installation instructions are broken up into sections A. through E., make sure you follow all steps to create a working Python environment.
 3. Find Installation Step A. Locate the "Details" for your operating system and follow the instructions
 4. Continue following Step B. through Step E. of the Installation section
 
-### Install the latest version of Python
+#### Install the latest version of Python
 
 ```pyenv install 3.13.2```
 
